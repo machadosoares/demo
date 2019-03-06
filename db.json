@@ -1,6 +1,12 @@
 {
-	"getXMLResult": {
-		"resultCode": "NOK"
+	"getJSONResultOK": {
+		"resultCode": "OK"
+	},
+
+	"getJSONResultNOK":{
+		"resultCode": "NOK",
+		"fillerProp1": "filler1",
+		"fillerProp2": "filler2"
 	}
 
 	
